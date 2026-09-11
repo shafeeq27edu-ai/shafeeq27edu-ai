@@ -20,3 +20,29 @@
 - Core contributor to [Agenta-AI](https://github.com/agenta-ai/agenta). Selected for Open Source Connect India '26.
 - 75+ LeetCode problems deep. Coding consistently since 10th grade.
 - Currently going down the PyTorch and DSA rabbit hole.
+
+<br>
+
+### 🛠️ Stack
+
+**Languages**<br>
+Python, Java, C++, JavaScript, SQL<br>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js&theme=dark" />
+
+<br>
+
+**AI & ML**<br>
+PyTorch, TensorFlow, scikit-learn, OpenCV, Pandas, NumPy<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br>
+
+**Full-Stack**<br>
+Next.js, TypeScript, Tailwind CSS, FastAPI<br>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,fastapi&theme=dark" />
+
+<br>
+
+**Tools & Infra**<br>
+Docker, Git/GitHub, Celery, Redis, PostgreSQL<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,redis,postgres&theme=dark" />
