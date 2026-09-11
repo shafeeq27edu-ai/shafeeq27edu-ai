@@ -51,10 +51,8 @@ Docker, Git/GitHub, Celery, Redis, PostgreSQL<br>
 
 ### 🚀 Featured Builds
 
-| 🛡️ [Urban Shield AI](https://github.com/shafeeq27edu-ai/urban-shield-ai) | 🎯 [Trackr](https://github.com/shafeeq27edu-ai/trackr) |
-| :--- | :--- |
-| **Predictive flood & urban heat risk platform for Bengaluru.** | **Open-source computer vision analytics platform.** |
-| Dual-engine architecture (FastAPI + TS), RandomForest + sigmoid collapse modeling. Multi-language support. Hotspots identified with 72-96% confidence. | YOLOv8 + ByteTrack tracking. Async pipeline via FastAPI, Celery, and Redis. Full Docker Compose deployment + 7-area security hardening. |
+- 🛡️ **[Urban Shield AI](https://github.com/shafeeq27edu-ai/urban-shield-ai)**: Predictive flood & urban heat risk platform for Bengaluru. *(FastAPI, TypeScript, RandomForest)*
+- 🎯 **[Trackr](https://github.com/shafeeq27edu-ai/trackr)**: Open-source computer vision analytics & tracking platform. *(YOLOv8, FastAPI, Celery, Redis, Docker)*
 
 <br>
 
