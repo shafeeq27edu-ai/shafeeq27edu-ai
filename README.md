@@ -9,3 +9,14 @@
 </a>
 
 </div>
+
+<br>
+
+### ⚡ The TL;DR
+
+- Building AI/ML systems end-to-end. Training models and actually shipping them to production.
+- Hacked together **Urban Shield AI** in 24 hours — a dual-engine flood & urban heat risk platform for Bengaluru using a RandomForest classifier and a custom infrastructure collapse model.
+- Shipped **Trackr** — an open-source real-time object tracking platform (YOLOv8, ByteTrack, FastAPI, Redis, Docker).
+- Core contributor to [Agenta-AI](https://github.com/agenta-ai/agenta). Selected for Open Source Connect India '26.
+- 75+ LeetCode problems deep. Coding consistently since 10th grade.
+- Currently going down the PyTorch and DSA rabbit hole.
