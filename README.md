@@ -55,3 +55,14 @@ Docker, Git/GitHub, Celery, Redis, PostgreSQL<br>
 | :--- | :--- |
 | **Predictive flood & urban heat risk platform for Bengaluru.** | **Open-source computer vision analytics platform.** |
 | Dual-engine architecture (FastAPI + TS), RandomForest + sigmoid collapse modeling. Multi-language support. Hotspots identified with 72-96% confidence. | YOLOv8 + ByteTrack tracking. Async pipeline via FastAPI, Celery, and Redis. Full Docker Compose deployment + 7-area security hardening. |
+
+<br>
+
+### 📊 The Numbers
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shafeeq27edu-ai&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66&border_color=30363D&hide_border=false" alt="GitHub Stats" height="192" />
+  <img src="https://leetcard.jacoblin.cool/shafeeq_27?theme=dark&font=Inter&ext=activity" alt="LeetCode Stats" height="192" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeeq27edu-ai&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=C9D1D9&currStreakLabel=00FF66&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="192" />
+</div>
