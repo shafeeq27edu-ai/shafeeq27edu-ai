@@ -66,3 +66,14 @@ Docker, Git/GitHub, Celery, Redis, PostgreSQL<br>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeeq27edu-ai&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=C9D1D9&currStreakLabel=00FF66&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="192" />
 </div>
+
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/shafeeq27edu-ai"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/shafeeq27"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+  
+  <br><br>
+  
+  *Turning chaotic data into systems that just work.*
+</div>
